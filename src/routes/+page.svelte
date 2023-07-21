@@ -4,7 +4,6 @@
   import TextIncident from "../incident.txt?raw";
   import Box from "../lib/Box.svelte";
   import IconSearx from "../lib/assets/searxng.svg";
-  import IconPiped from "../lib/assets/piped.png";
   import IconElement from "../lib/assets/element.png";
   import IconLibreddit from "../lib/assets/libreddit.png";
   import IconPrivatebin from "../lib/assets/privatebin.png";
@@ -32,17 +31,6 @@
       border="0"
     />
     <p>A Private Meta-Search Engine.</p>
-  </div>
-
-  <div class="box" onclick="window.open('https://piped.pfcd.me/', '_blank')">
-    <h2>Piped</h2>
-    <img
-      src={IconPiped}
-      alt="Piped"
-      class="image"
-      border="0"
-    />
-    <p>A Frontend For Youtube.</p>
   </div>
 
   <div class="box" onclick="window.open('https://element.pfcd.me/', '_blank')">
