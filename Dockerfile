@@ -5,7 +5,7 @@ FROM node
 WORKDIR /app
 
 # Clone the repository
-RUN git clone https://github.com/Boranity/ramondia.net
+RUN git clone https://github.com/parallelqw/ramondia.net
 
 # Change the working directory to the cloned repository
 WORKDIR /app/ramondia.net
