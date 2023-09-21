@@ -9,14 +9,13 @@
 <Navbar />
 
 <div class="contact">
-  <h1>Contact to us</h1>
+  <h1>Current Maintainers</h1>
   <hr />
 
   <p>
     If you have any questions or questions regarding our services, we encourage
-    you to reach out to us through their Matrix accounts and we will be happy to
+    you to reach out to us through our Matrix accounts and we will be happy to
     assist you with any questions or concerns you may have about our services.
-    Below is the information of our team.
   </p>
 </div>
 
@@ -76,32 +75,6 @@
       <Icon icon="ic:baseline-telegram" color="white" width="30" />
     </a>
     
-  </div>
-
-  <div class="box">
-    <h3>Boranity - Web dev, Sysadmin</h3>
-    <p></p> <br>
-   
-      <a href="https://boranity.github.io" target="_blank"> 
-        <Icon icon="mdi:web" color="white" width="26" />
-      </a>
-   
-    <a href="https://matrix.to/#/@boran:ramondia.net" target="_blank"> 
-      <Icon icon="simple-icons:matrix" color="white" width="26" />
-    </a>
-
-    <a href="http://github.com/boranity" target="_blank"> 
-      <Icon icon="mdi:github" color="white" width="30" />
-    </a>
-
-    <a href="mailto:boranity0@tutanota.com"> 
-      <Icon icon="simple-icons:tutanota" color="white" width="26" />
-    </a>
-
-    <a href="https://t.me/boranity"> 
-      <Icon icon="ic:baseline-telegram" color="white" width="30" />
-    </a>
-
   </div>
 </div>
 
