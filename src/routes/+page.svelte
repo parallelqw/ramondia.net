@@ -5,7 +5,6 @@
   import Box from "../lib/Box.svelte";
   import IconSearx from "../lib/assets/searxng.svg";
   import IconElement from "../lib/assets/element.png";
-  import IconLibreddit from "../lib/assets/libreddit.png";
   import IconPrivatebin from "../lib/assets/privatebin.png";
   import IconHyperpipe from "../lib/assets/hyperpipe.png";
   import IconVaultwarden from "../lib/assets/vaultwarden.png";
@@ -42,17 +41,6 @@
       border="0"
     />
     <p>A Matrix Client.</p>
-  </div>
-
-  <div class="box" onclick="window.open('https://reddit.pfcd.me/', '_blank')">
-    <h2>Libreddit</h2>
-    <img
-      src={IconLibreddit}
-      alt="Libreddit"
-      class="image"
-      border="0"
-    />
-    <p>A Frontend For Reddit.</p>
   </div>
 
   <div
