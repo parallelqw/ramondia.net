@@ -59,11 +59,11 @@
       <Icon icon="simple-icons:matrix" color="white" width="26" />
     </a>
 
-    <a href="http://github.com/parallelqw" target="_blank"> 
+    <a href="http://github.com/pfcdx" target="_blank"> 
       <Icon icon="mdi:github" color="white" width="30" />
     </a>
 
-    <a href="http://gitlab.com/parallelqw" target="_blank"> 
+    <a href="http://gitlab.com/pfcd" target="_blank"> 
       <Icon icon="mdi:gitlab" color="white" width="26" />
     </a>
 
