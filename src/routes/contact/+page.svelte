@@ -71,7 +71,7 @@
       <Icon icon="simple-icons:tutanota" color="white" width="26" />
     </a>
 
-    <a href="https://t.me/parallelq"> 
+    <a href="https://t.me/pfcdx"> 
       <Icon icon="ic:baseline-telegram" color="white" width="30" />
     </a>
     
