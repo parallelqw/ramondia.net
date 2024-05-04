@@ -4,7 +4,6 @@
   import TextIncident from "../incident.txt?raw";
   import Box from "../lib/Box.svelte";
   import IconSearx from "../lib/assets/searxng.svg";
-  import IconElement from "../lib/assets/element.png";
   import IconPrivatebin from "../lib/assets/privatebin.png";
   import IconHyperpipe from "../lib/assets/hyperpipe.png";
   import IconVaultwarden from "../lib/assets/vaultwarden.png";
@@ -30,17 +29,6 @@
       border="0"
     />
     <p>A Private Meta-Search Engine.</p>
-  </div>
-
-  <div class="box" onclick="window.open('https://element.pfcd.me/', '_blank')">
-    <h2>Element</h2>
-    <img
-      src={IconElement}
-      alt="Element"
-      class="image"
-      border="0"
-    />
-    <p>A Matrix Client.</p>
   </div>
 
   <div
